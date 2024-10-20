@@ -1,0 +1,13 @@
+{
+"fieldname": [
+
+    "FirstName", 
+    "LastName",
+    "Gender", 
+    "Username" ,
+    "Password",
+    "Confirm Password",
+    "Email ID",
+    "Phone name"
+]
+}

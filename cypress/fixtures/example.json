@@ -1,0 +1,23 @@
+{
+  "FirstName":"Harish",
+  "LastName":"Kumar",
+  "Gender_Male":"Male",
+  "Gender_Female":"Female",
+  "Gender_Other":"Others",
+  "USERNAME" : "Harikumar",
+  "PASSWORD" : "Hari@0302",
+  "CONFIRM_PASSWORD" : "Hari@0302",
+  "Phone":"9787947517",
+  "Country":"India",
+  "City": "Chennai",
+  "Email":"harishkumar0302@gmail.com",
+
+
+  "Username":"standard_user",
+  "Password":"secret_sauce",
+  "fs":"Harish",
+  "ls":"Kumar",
+  "pincode":"60201",
+  "products": ["Onesie","Bike Light"," Bolt T-Shirt"]
+  
+}
